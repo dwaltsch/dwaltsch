@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🚀 I’m currently working on fun Rust and Python Projects 
+- 🚀 Working on Rust and Python Projects 
 - 🌱 I’m learning Hardware Development and Embedded System Design
-- 💡  I’m building Lamps @SmortTech
+- 💡  Spend my time building Lamps @SmortTech
 
 
 You can find me here:
